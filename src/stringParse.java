@@ -69,7 +69,7 @@ public class stringParse {
 				}
 				else
 				{
-					System.out.println("The substring: '" + substring + "' is the substring\r\nof the string : '" + fullstring + "'");
+					System.out.println("The substringg: '" + substring + "' is the substring\r\nof the string : '" + fullstring + "'");
 				}
 			}
 			else
